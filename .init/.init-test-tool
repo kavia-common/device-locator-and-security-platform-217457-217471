@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/device-locator-and-security-platform-217457-217471/find_my_device_backend"
+}
